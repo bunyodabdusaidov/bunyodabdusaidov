@@ -18,10 +18,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunyodabdusaidov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/bunyodabdusaidov/twitter-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bunyodabdusaidov&repo=twitter-clone" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/bunyodabdusaidov/microblog-practice-web-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bunyodabdusaidov&repo=microblog-practice-web-project" />
 </a>
 
