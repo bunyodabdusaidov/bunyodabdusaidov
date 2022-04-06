@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunyodabdusaidov&layout=compact&theme=dark)](https://github.com/bunyodabdusaidov/bunyodabdusaidov)
 
 <a href="https://github.com/bunyodabdusaidov/twitter-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bunyodabdusaidov&repo=twitter-clone"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bunyodabdusaidov&repo=CS50x-2021"/>
 </a>
 <a href="https://github.com/bunyodabdusaidov/microblog-practice-web-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bunyodabdusaidov&repo=microblog-practice-web-project"/>
