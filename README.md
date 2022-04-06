@@ -14,15 +14,15 @@
 * Currently studying CS50x (Harvard) & Ace the Python Coding Interview (Educative.io). 
 * Check out my [resume](https://gist.github.com/bunyodabdusaidov/92e929ae4dd471820b6b2479d9ff26d7).
 
-[![Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunyodabdusaidov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunyodabdusaidov&show_icons=true&theme=dark)](https://github.com/bunyodabdusaidov/bunyodabdusaidov)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunyodabdusaidov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunyodabdusaidov&layout=compact&theme=dark)](https://github.com/bunyodabdusaidov/bunyodabdusaidov)
 
 <a href="https://github.com/bunyodabdusaidov/twitter-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bunyodabdusaidov&repo=twitter-clone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bunyodabdusaidov&repo=twitter-clone"/>
 </a>
 <a href="https://github.com/bunyodabdusaidov/microblog-practice-web-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bunyodabdusaidov&repo=microblog-practice-web-project" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bunyodabdusaidov&repo=microblog-practice-web-project"/>
 </a>
 
 
