@@ -1,6 +1,6 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Bunyod, juniour backend engineer
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Bunyod, juniour backend engineer
 
-### I'm a rising junior engineer with relevant experience in backend development. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+#### I'm a rising junior engineer with relevant experience in backend development. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
