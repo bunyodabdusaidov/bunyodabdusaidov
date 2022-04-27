@@ -11,10 +11,10 @@
 [2]: https://www.linkedin.com/in/bunyodabdusaidov
 
 * Check out my [Resume](https://gist.github.com/bunyodabdusaidov/92e929ae4dd471820b6b2479d9ff26d7) and [LinkedIn](https://www.linkedin.com/in/bunyodabdusaidov).
-* I'm currently working at Web Strategy and Development department of Missouri State University in migration team.
-* I'm an incoming student at CodePath Technical Interview Prep Course.
-* I'm currently studying CS50x (Harvard) & Ace the Python Coding Interview (Educative.io).
-* I'm currently learning Javascript, Django, Data Structures & Algorithms.
+* Web Help Desk Associate @ Missouri State University - Web Strategy and Development, Migration team.
+* Incoming student at CodePath Technical Interview Prep Course.
+* Currently studying CS50x (Harvard) & Ace the Python Coding Interview (Educative.io).
+* Currently learning Javascript, Django, Data Structures & Algorithms.
 
 
 
