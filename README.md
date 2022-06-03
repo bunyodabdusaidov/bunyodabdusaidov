@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="12px"> I am Bunyod, Junior Backend Engineer
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" heigth="30px"> I am Bunyod, Junior Backend Engineer
 
 ### I'm a rising SWE with relevant experience in backend development. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
