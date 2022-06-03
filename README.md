@@ -16,6 +16,7 @@
 * Student @ CodePath Technical Interview Prep Course.
 * Currently studying CS50x (Harvard) & Ace the Python Coding Interview (Educative.io).
 * Currently learning Javascript, Django, Data Structures & Algorithms.
+* Currently reading Grokking algorithms & Cracking the Coding Interview
 
 
 
