@@ -1,6 +1,6 @@
 # Hello, folks! 👋 I am Bunyod, Junior Backend Engineer
 
-### I'm a rising SWE with relevant experience in backend development. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+### I'm a rising SWE with relevant experience in backend development. You can find me on [Twitter][1], or on [![LinkedIn][2.2]][2].
 
 [1.2]: https://www.flaticon.com/free-icons/tweet
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
