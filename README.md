@@ -4,7 +4,7 @@
 
 [1.2]: https://www.flaticon.com/free-icons/tweet
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+<a href="https://www.flaticon.com/free-icons/tweet" title="tweet icons">Tweet icons created by Freepik - Flaticon</a>
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/babdusaid0v
