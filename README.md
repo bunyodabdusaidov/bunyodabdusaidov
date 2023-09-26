@@ -1,6 +1,6 @@
 ## Hello, folks! 👋 I am Bunyod, Junior Backend Engineer
 
-### I'm a rising SWE with relevant experience in backend development. You can find me on [X][1], or on [LinkedIn][2].
+#### I'm a rising SWE with relevant experience in backend development. You can find me on [X][1], or on [LinkedIn][2].
 
 [1]: https://twitter.com/babdusaid0v
 [2]: https://www.linkedin.com/in/bunyodabdusaidov
