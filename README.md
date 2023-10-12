@@ -6,7 +6,7 @@
 [2]: https://www.linkedin.com/in/bunyodabdusaidov
 
 * Check out my [Resume](https://gist.github.com/bunyodabdusaidov/92e929ae4dd471820b6b2479d9ff26d7) and [LinkedIn](https://www.linkedin.com/in/bunyodabdusaidov).
-* B.Sc. in CS @ Missouri State University | Expected graduation - 2024 
+* B.Sc. in CS @ Missouri State University | Expected graduation - Dec 2024 
 * Worked as Web Help Desk Associate, Networking & Telecommunications Associate @ Missouri State University
 * Graduate @ CodePath Technical Interview Prep Course.
 * Currently studying CS50W and preparing for interviews to land an internship.
